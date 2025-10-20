@@ -39,3 +39,4 @@
 ## Viðskiptareglur
 - BR-1	Aðeins stjórnendur mega endurnýja lyfseðla í gegnum Heilsuveru.
 - BR-2	Starfsmaður má ekki staðfesta lyfjagjöf fyrr en innan 30 mínútna glugga frá áætluðum tíma.
+  
